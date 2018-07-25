@@ -1,23 +1,5 @@
 #Admin Dashboard Template
 
-This Admin Dashboard Template is based in the original app made in the examples of ExtJS
-Framework, the idea of this is to use it as a real "template" to generate a application
-based on the original Admin Dashboard app.
-
-If you are like me, and tried to do a new app based on the sample but ended with a "Admin"
-app everywhere (the sencha generate command didn't replaced the Admin name with the correct
-App Name) then this repository is for you.
-
-Just clone in a directory and then run the command (from the framework) to create a new
-App based from this template as follows:
-
-    sencha generate app -s Path_To_The_Downloaded_Template YourAppName Path_To_The_Destination_App
-
-Enjoy!
-
-Let me know any suggestion you may have and happy coding
-
-[syscobra](http://www.twitter.com/syscobra)
 
 # Original Readme
 # Admin Dashboard
